@@ -33,7 +33,7 @@
   * **GPU**: Intel UHD Graphics.
   * **OS**: Arch Linux.
   * **DE**: KDE Plasma 5.
-  * **Code Editor**: Vim & VS Code.
+  * **Code Editor**: Vim & VS Codium.
 # Current projects
   * [LaTeX guide wiki](https://codeberg.org/Autumn64/latexguide).
   * [RaccoonLock](https://codeberg.org/Autumn64/RaccoonLock).
