@@ -28,5 +28,5 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I love quantum mechanics and astronomy/astrophysics.
 - Due to the reason above, I am unable to believe in astrology, even if witchcraft does be a thing to me.
 - I quit using any form of privative social media except for Discord, MiaVivo.net and WhatsApp on December 2023 (the last one because in México literally nobody uses anything other than WhatsApp).
-- I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute on the FLOSS projects I like/I'm interested in.
+- I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute on the FLOSS projects I like/I'm interested in. Also all the repos I have on GitHub are just a mirror to their respective Codeberg repositories.
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
