@@ -1,4 +1,4 @@
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\text{{\color{White}\textbf{About&space;me}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{About&space;me}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/she%2Fthey-pink?label=pronouns&style=for-the-badge">
@@ -16,9 +16,7 @@ Hi! I'm Mónica Gómez, also known as Autumn64. I am a Computer Systems Engineer
 
 On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) with the song "Ĝia nomo estas Mia Vivo", and I am an active contributor to Esperantujo through my [PeerTube channel](https://tube.tchncs.de/a/autumn64/video-channels), and by translating all my software to Esperanto. I am also an indie musician, and I frequently upload [programming tutorials in Spanish](https://video.hardlimit.com/a/autumn/video-channels).
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\text{{\color{White}\textbf{Quick&space;facts}">⛧☽•:•:≫∘♡∘≪:•:•</p>
-
-<br>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Quick&space;facts}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 - I celebrate my birthday on November 10th.
 - My pronouns are She/They.
@@ -42,6 +40,6 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
 - I used to be a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2019 and 2023.
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\text{{\color{White}\textbf{Support&space;me}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Support&space;me}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <p align="center"><a href="https://liberapay.com/autumn64/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></p>
