@@ -1,5 +1,7 @@
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{About&space;me}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
+<br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/she%2Fthey-pink?label=pronouns&style=for-the-badge">
 <img src="https://img.shields.io/badge/13-limegreen?label=repos&style=for-the-badge">
