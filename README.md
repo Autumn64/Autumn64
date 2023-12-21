@@ -41,6 +41,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute to the FLOSS projects I like/I'm interested in, and to mirror my repositories from Codeberg #GiveUpGitHub.
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
 - I used to be a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2019 and 2023.
+- I joined the FSF on December 2023!
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Support&space;me}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
