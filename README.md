@@ -36,8 +36,8 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I'm a Nitro subscriber and I keep paying for that sh*t even if I regret it every day.
 - I love maths even if I understand nothing of them!
 - I love quantum mechanics and astronomy/astrophysics.
-- Due to the reason above, I am unable to believe in astrology, even if witchcraft does be a thing to me.
-- I quit using any form of privative social media except for Discord, MiaVivo.net and WhatsApp on December 2023 (the last one because in México literally nobody uses anything other than WhatsApp).
+- I quit using any form of privative social media except for Discord (partially), MiaVivo.net and WhatsApp on December 2023.
+- About the point above, I still use Discord, but not inside the Discord's website or app. I actually interact with it through a bridge I made on a private Matrix space I recently created. In the case of MiaVivo.net, although it's technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2 or later](https://www.peepso.com/license/). In the case of WhatsApp, I prefer 100% XMPP, but I still need WhatsApp because my university sends its statements and stuff only through it, and sometimes by e-mail.
 - I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute to the FLOSS projects I like/I'm interested in, and to mirror my repositories from Codeberg #GiveUpGitHub.
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
 - I used to be a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2019 and 2023.
