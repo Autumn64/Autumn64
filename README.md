@@ -24,9 +24,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - My pronouns are She/They.
 - I speak Spanish, English, Portuguese, French and Esperanto.
 - I am a linguistics nerd.
-- I am a [neopagan](https://en.wikipedia.org/wiki/Modern_paganism), particularly interested in [chaos magic](https://en.wikipedia.org/wiki/Chaos_magic), though my spiritual practice focuses more in general nordic-and-celtic-oriented [eclectic witchcraft](https://en.wikipedia.org/wiki/Witchcraft#Modern_paganism).
-- I am a daughter of the moon.
-- I follow the philosophy of [optimistic nihilism](https://iv.nboeck.de/watch?v=MBRqu0YOH14), which is the reason why I became a witch as I stoppped giving two sh*ts about what other people think.
+- I follow the philosophy of [optimistic nihilism](https://iv.nboeck.de/watch?v=MBRqu0YOH14).
 - I'm an ex-catholic, and an ex-muslim.
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
 - I'm fine with [systemd](https://systemd.io/)!
