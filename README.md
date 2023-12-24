@@ -20,7 +20,7 @@ If you wish, you can verify <a href="https://www.autumn64.xyz/key.html">it's act
 
 Hi! I'm Mónica Gómez, also known as Autumn64. I am a Computer Systems Engineering student from México, and I'm a proud trans woman and Esperantist. I started developing software in C# back in 2014, but my first contacts with programming date back from 2011 with Commodore BASIC. I also started using GNU/Linux in 2014 with Debian 6, and since then I've witnessed the evolution of the GNU/Linux distributions and community. Nowadays I use Arch Linux and I develop free, libre and open-source software in C, Python and JavaScript, although I can also code in Java, C++, Rust and C#.
 
-On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) with the song "Ĝia nomo estas Mia Vivo", and I am an active contributor to Esperantujo through my [PeerTube channel](https://tube.tchncs.de/a/autumn64/video-channels), and by translating all my software to Esperanto. I am also an indie musician, and I frequently upload [programming tutorials in Spanish](https://video.hardlimit.com/a/autumn/video-channels).
+On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) with the song "Ĝia nomo estas Mia Vivo", and I am an active contributor to Esperantujo through my [PeerTube channel](https://tube.tchncs.de/a/autumn64/video-channels), and by translating all my software to Esperanto. I am also an [indie musician](https://www.autumn64.xyz/music.html), and I frequently upload programming tutorials [in Spanish](https://video.hardlimit.com/c/autumn64/videos) and [Esperanto](https://tube.tchncs.de/c/autumn64.eo/videos).
 
 <br>
 
@@ -37,7 +37,6 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I have an Xbox One. Nowadays I prefer playing on [Steam](https://steamcommunity.com/profiles/76561199486117495/) though.
 - I use Arch [Linux](https://pawb.social/post/5079071) as my daily driver.
 - I used GNOME for years until I switched to KDE due to fractional scaling issues with my current monitor.
-- I'm a Nitro subscriber and I keep paying for that sh*t even if I regret it every day.
 - I love maths even if I understand nothing of them!
 - I love quantum mechanics and astronomy/astrophysics.
 - I quit using any form of privative social media except for Discord (partially), MiaVivo.net and WhatsApp on December 2023.
