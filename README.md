@@ -36,14 +36,14 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I'm no longer fine with [systemd](https://www.osnews.com/story/28026/editorial-thoughts-on-systemd-and-the-freedom-to-choose/)!
 - I have an Xbox One. Nowadays I prefer playing on [Steam](https://steamcommunity.com/profiles/76561199486117495/) though.
 - I use Artix [Linux](https://pawb.social/post/5079071) as my daily driver.
-- I used GNOME for years until I switched to KDE due to fractional scaling issues with my current monitor.
+- I use XFCE.
 - I love maths even if I understand nothing of them!
 - I love quantum mechanics and astronomy/astrophysics.
 - I quit using any form of privative social media except for Discord (partially), MiaVivo.net and WhatsApp on December 2023.
-- About the point above, I still use Discord, but not inside the Discord's website or app. I actually interact with it through a bridge I made on a private Matrix space I recently created. In the case of MiaVivo.net, although it's technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2 or later](https://www.peepso.com/license/). In the case of WhatsApp, even though I prefer 100% XMPP, I still need WhatsApp because my university sends its statements and stuff only through it, and sometimes by e-mail.
+- About the point above, I still use Discord, but I try to send the least amount of sensitive or personal information as possible, and most of the time I interact with it through a bridge I made on a private Matrix space I recently created. I do not have the discord app installed in my computer or my smartphone, and I only access it through my web browser. In the case of MiaVivo.net, although it's technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2 or later](https://www.peepso.com/license/). In the case of WhatsApp, even though I prefer 100% XMPP, I still need WhatsApp because that's the only medium my university uses to inform its students (including me) about the stuff happening there.
 - I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute to the FLOSS projects I like/I'm interested in, and to mirror my repositories from Codeberg #GiveUpGitHub.
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
-- I used to be a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2019 and 2023.
+- I'm a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/).
 - I joined the FSF on December 2023!
 
 <br>
