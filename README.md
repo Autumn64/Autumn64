@@ -46,7 +46,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - About the point above, I deleted my Discord account on January 2024, but I still interact with my friends on it through a bridge I made on a private Matrix space I recently created. In the case of MiaVivo.net, although it's technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2 or later](https://www.peepso.com/license/). In the case of WhatsApp, even though I prefer 100% XMPP, I still need WhatsApp because that's the only medium my university uses to inform its students (including me) about the stuff happening there.
 - I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute to the FLOSS projects I like/I'm interested in, and to mirror my repositories from Codeberg #GiveUpGitHub.
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
-- I used to be a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2020 and 2024.
+- I was a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2020 and 2024.
 - I joined the FSF on December 2023!
 
 <br>
