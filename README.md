@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/she%2Fthey-pink?label=pronouns&style=for-the-badge">
-<img src="https://img.shields.io/badge/13-limegreen?label=repos&style=for-the-badge">
+<img src="https://img.shields.io/badge/14-limegreen?label=repos&style=for-the-badge">
 <img src="https://img.shields.io/liberapay/patrons/autumn64.svg?logo=liberapay&style=for-the-badge">
 <img src="https://img.shields.io/badge/2014-tan?label=coder%20since&style=for-the-badge">
 <img src="https://img.shields.io/badge/artix-blue?label=distro&style=for-the-badge">
@@ -33,21 +33,25 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I celebrate my birthday on November 10th.
 - My pronouns are She/They.
 - I speak Spanish, English, Portuguese, French and Esperanto.
+- I am an [indie musician](https://www.autumn64.xyz/music.html).
 - I am a linguistics nerd.
-- I follow the philosophy of [optimistic nihilism](https://iv.nboeck.de/watch?v=MBRqu0YOH14).
+- I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
+- I follow the philosophy of [optimistic nihilism](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
+- Because of the point above, I support the freedom of belief, and I think we have the right to decide at which point such beliefs influence our lives. As a result, I have no issues in being both an atheist and a [neopagan](https://en.wikipedia.org/wiki/Chaos_magic)!
 - I'm an ex-catholic, and an ex-muslim.
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
-- I have an Xbox One. Nowadays I prefer playing on [Steam](https://steamcommunity.com/profiles/76561199486117495/) though.
-- I use Artix [Linux](https://pawb.social/post/5079071) as my daily driver.
+- [We don't need open-source software, we need free software](https://ploum.net/2023-06-19-more-rms.html)!
+- I have an Xbox One. I also play often on [Steam](https://steamcommunity.com/profiles/76561199486117495/), but most of the time I play on my jailbroken DSi and 2DS.
+- I use [Artix](https://artixlinux.org/) [Linux](https://pawb.social/post/5079071) as my daily driver.
 - I use XFCE.
 - I love maths even if I understand nothing of them!
 - I love quantum mechanics and astronomy/astrophysics.
-- I quit using any form of privative social media except for Discord (partially), MiaVivo.net and WhatsApp on December 2023.
-- About the point above, I deleted my Discord account on January 2024, but I still interact with my friends on it through a bridge I made on a private Matrix space I recently created. In the case of MiaVivo.net, although it's technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2 or later](https://www.peepso.com/license/). In the case of WhatsApp, even though I prefer 100% XMPP, I still need WhatsApp because that's the only medium my university uses to inform its students (including me) about the stuff happening there.
-- I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) to contribute to the FLOSS projects I like/I'm interested in, and to mirror my repositories from Codeberg #GiveUpGitHub.
+- I quit using any form of privative social media except for MiaVivo.net and WhatsApp on December 2023.
+- About the point above, although MiaVivo.net is technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2](https://www.peepso.com/license/). In the case of WhatsApp, even though I will always prefer XMPP, I still need WhatsApp because that's the only medium my university uses to inform its students (including me) about the stuff going on, and I only use it on a [dumb phone I bought](https://mast.lat/@autumn64/111853426368504810) that uses KaiOS.
+- I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) account to contribute to the FLOSS projects I like/I'm interested in (unless such project accepts patches, which is always my first choice), and to mirror my repositories from Codeberg [#GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub/).
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
 - I was a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2020 and 2024.
-- I joined the FSF on December 2023!
+- I joined the [FSF](https://www.fsf.org/) on December 2023!
 
 <br>
 
