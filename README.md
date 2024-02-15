@@ -32,12 +32,12 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 
 - I celebrate my birthday on November 10th.
 - My pronouns are She/They.
-- I speak Spanish, English, Portuguese, French and Esperanto.
+- I speak Spanish, English, Portuguese, French and Esperanto, and I'm learning Norwegian and Korean.
 - I am an [indie musician](https://www.autumn64.xyz/music.html).
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
 - I follow the philosophy of [optimistic nihilism](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
-- Because of the point above, I support the freedom of belief, and I think we have the right to decide at which point such beliefs influence our lives. As a result, I have no issues in being both an atheist and a [neopagan](https://en.wikipedia.org/wiki/Chaos_magic)!
+- Because of the point above, I support the freedom of belief, and I think we have the right to decide at which point such beliefs influence our lives. As a result, I have no issues in being both an atheist and a [neopagan](https://en.wikipedia.org/wiki/Neopagan_witchcraft)!
 - I'm an ex-catholic, and an ex-muslim.
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
 - [We don't need open-source software, we need free software](https://ploum.net/2023-06-19-more-rms.html)!
@@ -54,6 +54,12 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I joined the [FSF](https://www.fsf.org/) on December 2023!
 
 <br>
+
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Contact}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+
+<p align="center">E-mail: <a href="mailto:eunbyeol64@naver.com">eunbyeol64@naver.com</a></p>
+
+<p align="center"><a href="https://www.autumn64.xyz/social.html">My social media</a></p>
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Support&space;me}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
