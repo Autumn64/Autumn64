@@ -32,13 +32,14 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 
 - I celebrate my birthday on November 10th.
 - My pronouns are She/They.
-- I speak Spanish, English, Portuguese, French and Esperanto, and I'm learning Norwegian and Korean.
+- I speak Spanish, English, Portuguese, French (quite badly though) and Esperanto, and I'm (unofficially) learning Korean.
 - I am an [indie musician](https://www.autumn64.xyz/music.html).
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
 - I follow the philosophy of [optimistic nihilism](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
-- Because of the point above, I support the freedom of belief, and I think we have the right to decide at which point such beliefs influence our lives. As a result, I have no issues in being both an atheist and a [neopagan](https://en.wikipedia.org/wiki/Neopagan_witchcraft)!
 - I'm an ex-catholic, and an ex-muslim.
+- A few years ago I used to be an avid K-Pop fan. Nowadays I'm still in contact with a lot of the korean culture, but I usually only listen to TWICE (my favouritest gg and artist ever), MAMAMOO (my 2nd favouritest gg and artist ever), NewJeans, and Secret Number.
+- My favourite K-Drama is probably [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), and my favourite K-Film is quite surely [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
 - [We don't need open-source software, we need free software](https://ploum.net/2023-06-19-more-rms.html)!
 - I have an Xbox One. I also play often on [Steam](https://steamcommunity.com/profiles/76561199486117495/), but most of the time I play on my jailbroken DSi and 2DS.
@@ -46,8 +47,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I use XFCE.
 - I love maths even if I understand nothing of them!
 - I love quantum mechanics and astronomy/astrophysics.
-- I quit using any form of privative social media except for MiaVivo.net and WhatsApp on December 2023.
-- About the point above, although MiaVivo.net is technically a copyrighted social media, the technology it uses (PeepSo) is released under the [GPL v2](https://www.peepso.com/license/). In the case of WhatsApp, even though I will always prefer XMPP, I still need WhatsApp because that's the only medium my university uses to inform its students (including me) about the stuff going on, and I only use it on a [dumb phone I bought](https://mast.lat/@autumn64/111853426368504810) that uses KaiOS.
+- I quit using almost any form of privative social media on December 2023.
 - I switched to [Codeberg](https://codeberg.org/Autumn64) on November 2023, while I just use my [GitHub](https://github.com/Autumn64) account to contribute to the FLOSS projects I like/I'm interested in (unless such project accepts patches, which is always my first choice), and to mirror my repositories from Codeberg [#GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub/).
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
 - I was a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2020 and 2024.
