@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/she%2Fthey-pink?label=pronouns&style=for-the-badge">
+<img src="https://img.shields.io/badge/she%2Fher-pink?label=pronouns&style=for-the-badge">
 <img src="https://img.shields.io/badge/14-limegreen?label=repos&style=for-the-badge">
 <img src="https://img.shields.io/liberapay/patrons/autumn64.svg?logo=liberapay&style=for-the-badge">
 <img src="https://img.shields.io/badge/2014-tan?label=coder%20since&style=for-the-badge">
