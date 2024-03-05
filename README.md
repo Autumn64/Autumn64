@@ -30,8 +30,8 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Quick&space;facts}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
-- I celebrate my birthday on November 10th.
-- My pronouns are She/They.
+- I was actually born on June 11th, but I celebrate my birthday on November 10th (because that's when I came out and only then I felt [I started living](https://blahaj.zone/notes/9olounrnjim62sjf)).
+- My pronouns are She/Her.
 - I speak Spanish, English, Portuguese, French (quite badly though) and Esperanto, and I'm (unofficially) learning Korean.
 - I am an [indie musician](https://www.autumn64.xyz/music.html).
 - I am a linguistics nerd.
