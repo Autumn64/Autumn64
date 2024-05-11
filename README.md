@@ -57,7 +57,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Contact}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
 
-<p align="center">E-mail: <a href="mailto:eunbyeol64@naver.com">eunbyeol64@naver.com</a></p>
+<p align="center">E-mail: <a href="mailto:autumn64@disroot.org">autumn64@disroot.org</a></p>
 
 <p align="center"><a href="https://www.autumn64.xyz/social.html">My social media</a></p>
 <p align="center">PGP Key: <a href="https://www.autumn64.xyz/key.html">C6E176B5ED0712210C205917DE3142A1D89C649B</a></p>
