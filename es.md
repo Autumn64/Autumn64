@@ -1,4 +1,6 @@
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Sobre&space;mi}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐒𝐨𝐛𝐫𝐞 𝐦𝐢⛧☽•:•:≫∘♡∘≪:•:•</p>
+
+<p align="center">Puede que este sitio funcione mal si no tienes un soporte adecuado para Unicode en tu dispositivo.</p>
 
 <br>
 
@@ -28,7 +30,7 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 
 <br>
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Curiosidades}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐝𝐚𝐝𝐞𝐬⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 - En realidad nací el 11 de junio, pero celebro mi cumpleaños el 10 de noviembre (porque fue ese día cuando salí del clóset, y sólo entonces sentí que [comencé a vivir](https://blahaj.zone/notes/9olounrnjim62sjf)).
 - Uso pronombres femeninos.
@@ -55,13 +57,13 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 
 <br>
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Contacto}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐨⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <p align="center">E-mail: <a href="mailto:autumn64@disroot.org">autumn64@disroot.org</a></p>
 
 <p align="center"><a href="https://www.autumn64.xyz/src/es/social.html">Mis redes sociales</a></p>
 <p align="center">Clave PGP: <a href="https://www.autumn64.xyz/src/eskey.html">C6E176B5ED0712210C205917DE3142A1D89C649B</a></p>
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Apoyame}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐀𝐩𝐨𝐲𝐚𝐦𝐞⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <p align="center"><a href="https://liberapay.com/autumn64/"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></p>

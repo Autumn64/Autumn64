@@ -1,4 +1,4 @@
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{About&space;me}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐀𝐛𝐨𝐮𝐭 𝐦𝐞⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <br>
 

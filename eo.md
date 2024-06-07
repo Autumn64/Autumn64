@@ -1,4 +1,6 @@
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Pri&space;mi}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐏𝐫𝐢 𝐦𝐢⛧☽•:•:≫∘♡∘≪:•:•</p>
+
+<p align="center">Eble tiu ĉi retejo funkcios malĝuste se vi ne havas taŭgan subtenon por Unicode en via disponaĵo.</p>
 
 <br>
 
@@ -28,7 +30,7 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 
 <br>
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Rapidaj&space;faktoj}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐑𝐚𝐩𝐢𝐝𝐚𝐣 𝐟𝐚𝐤𝐭𝐨𝐣⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 - Fakte mi naskiĝis je la 11a de Junio, sed mi celebras mian naskiĝtagon je la 10a de Novembro (ĉar tiam mi elŝrankiĝis kaj nur post tio mi sentis, ke [mi komencis vivi](https://blahaj.zone/notes/9olounrnjim62sjf)).
 - Mi uzas inajn pronomojn, kaj mi ofte "inigas" substantivojn kaj adjektivojn kiam parolante pri mi mem.
@@ -56,13 +58,13 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 
 <br>
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Kontakto}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐊𝐨𝐧𝐭𝐚𝐤𝐭𝐨⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <p align="center">Retpoŝtadreso: <a href="mailto:autumn64@disroot.org">autumn64@disroot.org</a></p>
 
 <p align="center"><a href="https://www.autumn64.xyz/src/en/social.html">Miaj sociaj retejoj</a></p>
 <p align="center">PGP Ŝlosilo: <a href="https://www.autumn64.xyz/src/en/key.html">C6E176B5ED0712210C205917DE3142A1D89C649B</a></p>
 
-<p align="center">•:•:≫∘♡∘≪:•:•☾⛧<img src="https://latex.codecogs.com/svg.image?\large&space;\text{\color{White}\textbf{Apogu&space;min}}">⛧☽•:•:≫∘♡∘≪:•:•</p>
+<p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐒𝐮𝐛𝐭𝐞𝐧𝐮 𝐦𝐢𝐧⛧☽•:•:≫∘♡∘≪:•:•</p>
 
 <p align="center"><a href="https://liberapay.com/autumn64/"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></p>
