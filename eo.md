@@ -24,7 +24,7 @@ Se vi volas, vi povas kontroli, ke <a href="https://www.autumn64.xyz/src/en/key.
 
 #### AVERTO: Se vi legas tion ĉi el GitHub, tio signifas, ke vi estas ĉe spegulo! La originala dosiero estas ĉe [Codeberg](https://codeberg.org/Autumn64/AboutMe/src/branch/main/README.md). Se vi volas kontribui al miaj projektoj, bonvolu fari tiel tie, ĉar ĉiuj miaj deponejoj de GitHub estas nur speguloj al Codeberg.
 
-Saluton! Mi estas Mónica Gómez, ankaŭ konata kiel Autumn64. Mi estas studantino de Inĝenierarto de Komputilaj Sistemoj el Meksiko, mi estas 19 jaraĝa, kaj mi estas Esperantista transvirino. Mi komencis verki softvaron per C# je 2014, sed miaj unuaj kontaktoj kun programado estas ekde antaŭ 2011 per Commodore BASIC. Mi ankaŭ komencis uzi GNU/Linukson je 2014 per Debian 6, kaj ekde tiam mi atestis la evoluon de la GNU/Linuksaj distribuaĵoj kaj komunumo. Nuntempe mi uzas na [Arch Linux btw](https://archlinux.org/) kaj mi verkas liberan kaj malfermitkodan softvaron per C, Pitono kaj JavaScript, tamen mi ankaŭ konas na Java, C++, Rust kaj C#.
+Saluton! Mi estas Mónica Gómez, ankaŭ konata kiel Autumn64. Mi estas studantino de Inĝenierarto de Komputilaj Sistemoj el Meksiko, mi estas 20 jaraĝa, kaj mi estas Esperantista transvirino. Mi komencis verki softvaron per C# je 2014, sed miaj unuaj kontaktoj kun programado estas ekde antaŭ 2011 per Commodore BASIC. Mi ankaŭ komencis uzi GNU/Linukson je 2014 per Debian 6, kaj ekde tiam mi atestis la evoluon de la GNU/Linuksaj distribuaĵoj kaj komunumo. Nuntempe mi uzas na [Arch Linux btw](https://archlinux.org/) kaj mi verkas liberan kaj malfermitkodan softvaron per C, Pitono kaj JavaScript, tamen mi ankaŭ konas na Java, C++, Rust kaj C#.
 
 Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) per la kanto "Ĝia nomo estas Mia Vivo", kaj mi estas aktiva kontribuanto al la Esperantujo per mia [kanalo de PeerTube](https://tube.tchncs.de/a/autumn64/video-channels), kaj esperantigante ĉiujn miajn programarojn. Mi ankaŭ estas [sendependa muzikistino](https://www.autumn64.xyz/src/en/music.html), kaj mi ofte afiŝas filmetojn [Hispane](https://video.hardlimit.com/c/autumn64/videos) kaj [Esperante](https://tube.tchncs.de/c/autumn64.eo/videos).
 
@@ -32,7 +32,7 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐑𝐚𝐩𝐢𝐝𝐚𝐣 𝐟𝐚𝐤𝐭𝐨𝐣⛧☽•:•:≫∘♡∘≪:•:•</p>
 
-- Fakte mi naskiĝis je la 11a de Junio, sed mi celebras mian naskiĝtagon je la 10a de Novembro (ĉar tiam mi elŝrankiĝis kaj nur post tio mi sentis, ke [mi komencis vivi](https://blahaj.zone/notes/9olounrnjim62sjf)).
+- Mi naskiĝis je la 11a de Junio.
 - Mi uzas inajn pronomojn, kaj mi ofte "inigas" substantivojn kaj adjektivojn kiam parolante pri mi mem.
 - Mi parolas la Hispanan, la Anglan, la Portugalan, la Francan (tre malbone, tamen) kaj Esperanto, kaj mi neoficiale lernas la Korean.
 - Mi estas [sendependa muzikistino](https://www.autumn64.xyz/music.html).
