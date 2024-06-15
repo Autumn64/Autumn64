@@ -39,7 +39,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
 - I follow the philosophy of [optimistic nihilism](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
-- Despite my (extremely) religious past, I currently consider myself to be an irreligious (and somewhat atheist) person.
+- I'm a neopagan and a semi-atheist.
 - A few years ago I used to be an avid K-Pop fan. Nowadays I'm still in contact with a lot of the korean culture, but I usually only listen to TWICE (my favouritest gg and artist ever), MAMAMOO (my 2nd favouritest gg and artist ever), Red Velvet, NewJeans, and Secret Number.
 - My favourite K-Drama is probably [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), and my favourite K-Film is quite surely [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!

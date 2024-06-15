@@ -39,7 +39,7 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 - Mi estas lingvistika nerdino.
 - Mi amas la orientajn kulturojn, kaj mi ŝatas studi iliajn historion kaj lingvojn, speciale tiujn de Ĉinio kaj Koreio.
 - Mi sekvas la filozofion de [optimismema nihilismo](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
-- Spite al mia (ekstrema) religiema estinteco, mi nuntempe konsideras min kiel senreligiulino (kaj iomete sendiulino).
+- Mi estas novpaganismulino, kaj iom-sendiulino.
 - Antaŭ kelkaj jaroj mi estis avida fanino de K-Pop. Nuntempe mi ankoraŭ havas kontakton kun la korea kulturo, sed mi kutime nur aŭskultas na TWICE (mia plej preferata grupo kaj artisto), MAMAMOO (mia dua plej preferata grupo kaj artisto), Red Velvet, NewJeans kaj Secret Number.
 - Mia plej ŝatata K-Drama estas eble [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), kaj mia plej ŝatata K-Film estas tre certe [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) bonegas!
