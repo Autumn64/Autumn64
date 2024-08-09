@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/she%2Fher-pink?label=pronouns&style=for-the-badge">
-<img src="https://img.shields.io/badge/16-limegreen?label=repos&style=for-the-badge">
+<img src="https://img.shields.io/badge/17-limegreen?label=repos&style=for-the-badge">
 <img src="https://img.shields.io/liberapay/patrons/autumn64.svg?logo=liberapay&style=for-the-badge">
 <img src="https://img.shields.io/badge/2014-tan?label=coder%20since&style=for-the-badge">
 <img src="https://img.shields.io/badge/Arch-blue?label=distro&style=for-the-badge">
@@ -26,7 +26,7 @@ If you wish, you can verify <a href="https://www.autumn64.xyz/src/en/key.html">i
 
 Hi! I'm Mónica Gómez, also known as Autumn64. I am a Computer Systems Engineering student from México, I'm 20 years old, and I'm a proud trans woman and Esperantist. I started developing software in C# back in 2014, but my first contacts with programming date back from 2011 with Commodore BASIC. I also started using GNU/Linux in 2014 with Debian 6, and since then I've witnessed the evolution of the GNU/Linux distributions and community. Nowadays I use [Arch Linux btw](https://archlinux.org/) and I develop free, libre and open-source software in C, Python and JavaScript, although I can also code in Java, C++, Rust and C#.
 
-On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) with the song "Ĝia nomo estas Mia Vivo", and I am an active contributor to Esperantujo through my [PeerTube channel](https://tube.tchncs.de/a/autumn64/video-channels), and by translating all my software to Esperanto. I am also an [indie musician](https://www.autumn64.xyz/src/en/music.html), and I frequently upload programming tutorials [in Spanish](https://video.hardlimit.com/c/autumn64/videos) and [Esperanto](https://tube.tchncs.de/c/autumn64.eo/videos).
+On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) with the song "Ĝia nomo estas Mia Vivo", and I am an active contributor to Esperantujo through my [PeerTube channel](https://tube.tchncs.de/a/autumn64/video-channels), and by translating all my software to Esperanto. I am also an [indie musician](https://www.autumn64.xyz/src/en/music.html), and I frequently upload programming tutorials [in Spanish](https://video.hardlimit.com/c/autumn64/videos) and [Esperanto](https://tube.tchncs.de/c/autumn64.eo/videos). Additionally, I have [a blog in Spanish](https://blog.autumn64.xyz/) and another [in Esperanto](https://blogo.autumn64.xyz/).
 
 <br>
 
@@ -39,14 +39,14 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
 - I follow the philosophy of [optimistic nihilism](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
-- I'm a neopagan and a semi-atheist.
+- I'm a neopagan, and I have [a blog in Spanish](https://elcovengenz.net/) where I share the things I learn.
 - A few years ago I used to be an avid K-Pop fan. Nowadays I'm still in contact with a lot of the korean culture, but I usually only listen to TWICE (my favouritest gg and artist ever), MAMAMOO (my 2nd favouritest gg and artist ever), Red Velvet, NewJeans, and Secret Number.
 - My favourite K-Drama is probably [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), and my favourite K-Film is quite surely [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
 - [We don't need open-source software, we need free software](https://ploum.net/2023-06-19-more-rms.html)!
 - I have an Xbox One. I also play often on [Steam](https://steamcommunity.com/profiles/76561199486117495/), but most of the time I play on my jailbroken DSi and 2DS.
 - I use [Arch](https://archlinux.org/) [Linux](https://pawb.social/post/5079071) as my daily driver (I use Arch btw).
-- I use [Hyprland](https://blahaj.zone/notes/9sw0i26yda600104).
+- I use KDE Plasma.
 - I love maths even if I understand nothing of them!
 - I love quantum mechanics and astronomy/astrophysics.
 - I quit using almost any form of privative social media on December 2023.
@@ -54,6 +54,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - F*ck Microsoft Word/Google Docs/Apple Pages, all my homies use [LaTeX](https://www.latex-project.org/)!
 - I was a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2020 and 2024.
 - I joined the [FSF](https://www.fsf.org/) on December 2023!
+- I'm a permanent member of the spanish-speaking livestream about Free Software "[Quincenal del Fediverso](https://fediverse.tv/c/clubdesoftwarelibre/)", and I'm also a member of the [Free Software Club](https://softlibre.com.ar/).
 
 <br>
 

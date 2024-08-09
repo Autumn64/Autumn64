@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/ŝi-pink?label=pronomoj&style=for-the-badge">
-<img src="https://img.shields.io/badge/16-limegreen?label=deponejoj&style=for-the-badge">
+<img src="https://img.shields.io/badge/17-limegreen?label=deponejoj&style=for-the-badge">
 <img src="https://img.shields.io/liberapay/patrons/autumn64.svg?logo=liberapay&style=for-the-badge">
 <img src="https://img.shields.io/badge/2014-tan?label=programistino%20ekde&style=for-the-badge">
 <img src="https://img.shields.io/badge/Arch-blue?label=distro&style=for-the-badge">
@@ -26,7 +26,7 @@ Se vi volas, vi povas kontroli, ke <a href="https://www.autumn64.xyz/src/en/key.
 
 Saluton! Mi estas Mónica Gómez, ankaŭ konata kiel Autumn64. Mi estas studantino de Inĝenierarto de Komputilaj Sistemoj el Meksiko, mi estas 20 jaraĝa, kaj mi estas Esperantista transvirino. Mi komencis verki softvaron per C# je 2014, sed miaj unuaj kontaktoj kun programado estas ekde antaŭ 2011 per Commodore BASIC. Mi ankaŭ komencis uzi GNU/Linukson je 2014 per Debian 6, kaj ekde tiam mi atestis la evoluon de la GNU/Linuksaj distribuaĵoj kaj komunumo. Nuntempe mi uzas na [Arch Linux btw](https://archlinux.org/) kaj mi verkas liberan kaj malfermitkodan softvaron per C, Pitono kaj JavaScript, tamen mi ankaŭ konas na Java, C++, Rust kaj C#.
 
-Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) per la kanto "Ĝia nomo estas Mia Vivo", kaj mi estas aktiva kontribuanto al la Esperantujo per mia [kanalo de PeerTube](https://tube.tchncs.de/a/autumn64/video-channels), kaj esperantigante ĉiujn miajn programarojn. Mi ankaŭ estas [sendependa muzikistino](https://www.autumn64.xyz/src/en/music.html), kaj mi ofte afiŝas filmetojn [Hispane](https://video.hardlimit.com/c/autumn64/videos) kaj [Esperante](https://tube.tchncs.de/c/autumn64.eo/videos).
+Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) per la kanto "Ĝia nomo estas Mia Vivo", kaj mi estas aktiva kontribuanto al la Esperantujo per mia [kanalo de PeerTube](https://tube.tchncs.de/a/autumn64/video-channels), kaj esperantigante ĉiujn miajn programarojn. Mi ankaŭ estas [sendependa muzikistino](https://www.autumn64.xyz/src/en/music.html), kaj mi ofte afiŝas filmetojn [Hispane](https://video.hardlimit.com/c/autumn64/videos) kaj [Esperante](https://tube.tchncs.de/c/autumn64.eo/videos). Plie, mi havas [blogon Hispane](https://blog.autumn64.xyz/) kaj [Esperante](https://blogo.autumn64.xyz/).
 
 <br>
 
@@ -39,14 +39,14 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 - Mi estas lingvistika nerdino.
 - Mi amas la orientajn kulturojn, kaj mi ŝatas studi iliajn historion kaj lingvojn, speciale tiujn de Ĉinio kaj Koreio.
 - Mi sekvas la filozofion de [optimismema nihilismo](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
-- Mi estas novpaganismulino, kaj iom-sendiulino.
+- Mi estas novpaganismulino, kaj mi havas [blogon Hispane](https://elcovengenz.net/), kie mi kunhavigas la aferojn, kiujn mi lernas.
 - Antaŭ kelkaj jaroj mi estis avida fanino de K-Pop. Nuntempe mi ankoraŭ havas kontakton kun la korea kulturo, sed mi kutime nur aŭskultas na TWICE (mia plej preferata grupo kaj artisto), MAMAMOO (mia dua plej preferata grupo kaj artisto), Red Velvet, NewJeans kaj Secret Number.
 - Mia plej ŝatata K-Drama estas eble [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), kaj mia plej ŝatata K-Film estas tre certe [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) bonegas!
 - [Ne nepras malfermitkoda softvaro, nepras libera softvaro](https://ploum.net/2023-06-19-more-rms.html)!
 - Mi havas na Xbox One. Mi ankaŭ ofte ludas ĉe [Steam](https://steamcommunity.com/profiles/76561199486117495/), sed dum la plejparto de la tempo mi ludas ĉe miaj liberigitaj DSi kaj 2DS.
 - Mi uzas [Arch](https://archlinux.org/) [Linukson](https://pawb.social/post/5079071) kiel mian ĉefan operaciumon (I use Arch btw).
-- Mi uzas na [Hyprland](https://blahaj.zone/notes/9sw0i26yda600104).
+- Mi uzas je KDE Plasma.
 - Mi amas matematikon eĉ se mi komprenas nenion!
 - Mi amas kvantummeĥanikon kaj astronomion/astrofizikon.
 - Mi ĉesis uzi preskaŭ ĉiujn formojn de proprietaj sociaj retejoj je Decembro 2023.
@@ -54,6 +54,7 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 - Forf*ku na Microsoft Word/Google Docs/Apple Pages, ĉiuj miaj uloj uzas na [LaTeX](https://www.latex-project.org/)!
 - Mi estis parto de la [latinamerikana komunumo de Cartographer](https://www.halo2.online/forums/) inter 2020 kaj 2024.
 - Mi aliĝis al la [FSF](https://www.fsf.org/) je Decembro 2023!
+- Mi estas konstanta membro de la hispana tujelsendo pri Libera Softvaro "[Quincenal del Fediverso](https://fediverse.tv/c/clubdesoftwarelibre/)", kaj mi ankaŭ partoprenas je la [Klubo de Libera Softvaro](https://softlibre.com.ar/).
 - Mi penas por ne forgesi la akuzativon!
 
 <br>
