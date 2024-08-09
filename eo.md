@@ -1,6 +1,6 @@
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐏𝐫𝐢 𝐦𝐢⛧☽•:•:≫∘♡∘≪:•:•</p>
 
-<p align="center">Eble tiu ĉi retejo funkcios malĝuste se vi ne havas taŭgan subtenon por Unicode en via disponaĵo.</p>
+<p align="center">Ho, eble tiu ĉi retejo funkcios malĝuste se vi ne havas taŭgan subtenon por Unicode en via operaciumo!</p>
 
 <br>
 
