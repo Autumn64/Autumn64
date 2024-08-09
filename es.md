@@ -63,7 +63,7 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 <p align="center">E-mail: <a href="mailto:autumn64@disroot.org">autumn64@disroot.org</a></p>
 
 <p align="center"><a href="https://www.autumn64.xyz/src/es/social.html">Mis redes sociales</a></p>
-<p align="center">Clave PGP: <a href="https://www.autumn64.xyz/src/eskey.html">C6E176B5ED0712210C205917DE3142A1D89C649B</a></p>
+<p align="center">Clave PGP: <a href="https://www.autumn64.xyz/src/es/key.html">C6E176B5ED0712210C205917DE3142A1D89C649B</a></p>
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐀𝐩𝐨𝐲𝐚𝐦𝐞⛧☽•:•:≫∘♡∘≪:•:•</p>
 
