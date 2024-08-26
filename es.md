@@ -38,7 +38,7 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 - Soy [música independiente](https://www.autumn64.xyz/music.html).
 - Soy nerd de la lingüística.
 - Soy fan de las culturas orientales, y me gusta estudiar su historia y lenguas, especialmente aquellas de China y Corea.
-- Sigo la filosofía del [nihilismo optimista](https://invidious.lunar.icu/watch?v=Ylcg_lOU6IQ).
+- Sigo la filosofía del [nihilismo optimista](https://redirect.invidious.io/watch?v=Ylcg_lOU6IQ).
 - Soy neopagana, y tengo [un blog](https://www.elcovengenz.net/) en donde comparto las cosas que aprendo.
 - Hace algunos años era una ávida fan del K-Pop. Hoy en día sigo en contacto con mucha de la cultura coreana, pero usualmente sólo escucho a TWICE (mi grupo y artista favorito de todos los tiempos), MAMAMOO (mi segundo grupo y artista favorito de todos los tiempos), Red Velvet, NewJeans y Secret Number.
 - Sobre el punto anterior, también tengo una [estación de radio online](https://yazhouradio.autumn64.xyz) con música K-Pop, J-Rock, Mandopop, Thaipop, etcétera, que transmite 24/7 sin comerciales y sin interrupciones.
@@ -68,4 +68,4 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 
 <p align="center">•:•:≫∘♡∘≪:•:•☾⛧𝐀𝐩𝐨𝐲𝐚𝐦𝐞⛧☽•:•:≫∘♡∘≪:•:•</p>
 
-<p align="center"><a href="https://liberapay.com/autumn64/"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></p>
+<p align="center"><a href="https://liberapay.com/autumn64/"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> <a href="https://ko-fi.com/autumn64"><img src="./kofi.png" style="width: 90px; height: auto;"></a></p>
