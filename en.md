@@ -41,6 +41,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I follow the philosophy of [optimistic nihilism](https://invidious.lunar.icu/watch?v=MBRqu0YOH14).
 - I'm a neopagan, and I have [a blog in Spanish](https://elcovengenz.net/) where I share the things I learn.
 - A few years ago I used to be an avid K-Pop fan. Nowadays I'm still in contact with a lot of the korean culture, but I usually only listen to TWICE (my favouritest gg and artist ever), MAMAMOO (my 2nd favouritest gg and artist ever), Red Velvet, NewJeans, and Secret Number.
+- Related to the the point above, I also have an [online radio station](https://yazhouradio.autumn64.xyz) with K-Pop, J-Rock, Mandopop, Thaipop, etcetera, that streams 24/7 without ads and without interruptions.
 - My favourite K-Drama is probably [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), and my favourite K-Film is quite surely [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
 - [We don't need open-source software, we need free software](https://ploum.net/2023-06-19-more-rms.html)!

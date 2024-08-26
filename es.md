@@ -41,6 +41,7 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 - Sigo la filosofía del [nihilismo optimista](https://invidious.lunar.icu/watch?v=Ylcg_lOU6IQ).
 - Soy neopagana, y tengo [un blog](https://www.elcovengenz.net/) en donde comparto las cosas que aprendo.
 - Hace algunos años era una ávida fan del K-Pop. Hoy en día sigo en contacto con mucha de la cultura coreana, pero usualmente sólo escucho a TWICE (mi grupo y artista favorito de todos los tiempos), MAMAMOO (mi segundo grupo y artista favorito de todos los tiempos), Red Velvet, NewJeans y Secret Number.
+- Sobre el punto anterior, también tengo una [estación de radio online](https://yazhouradio.autumn64.xyz) con música K-Pop, J-Rock, Mandopop, Thaipop, etcétera, que transmite 24/7 sin comerciales y sin interrupciones.
 - Mi K-Drama favorito es probablemente [Aterrizaje de Emergencia en Tu Corazón](https://es.wikipedia.org/wiki/Aterrizaje_de_emergencia_en_tu_coraz%C3%B3n), y mi K-Film favorita es muy seguramente [Una Chica del Siglo XX](https://es.wikipedia.org/wiki/Una_chica_del_siglo_XX).
 - ¡Viva la [ISO 8601](https://es.wikipedia.org/wiki/ISO_8601)!
 - ¡[No necesitamos software de código abierto, necesitamos software libre](https://victorhckinthefreeworld.com/2023/06/26/necesitamos-mas-de-richard-stallman-no-menos/)!
