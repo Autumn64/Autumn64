@@ -39,6 +39,7 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 - Mi estas lingvistika nerdino.
 - Mi amas la orientajn kulturojn, kaj mi ŝatas studi iliajn historion kaj lingvojn, speciale tiujn de Ĉinio kaj Koreio.
 - Mi sekvas la filozofion de [optimismema nihilismo](https://redirect.invidious.io/watch?v=MBRqu0YOH14).
+- Mi estas [novpaganismulino](https://elcovengenz.net/), iomete sendiulino.
 - Mia plej ŝatata filmo estas [Interstellar](https://eo.wikipedia.org/wiki/Interstellar), kaj miaj plej ŝatataj sagaoj estas [Star Wars](https://eo.wikipedia.org/wiki/Star_Wars), [Frozen](https://en.wikipedia.org/wiki/Frozen_(franchise)) kaj [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)).
 - Mia plej ŝatata kanto estas [A thousand years](https://redirect.invidious.io/watch?v=rtOvBOTyX00).
 - Antaŭ kelkaj jaroj mi estis avida fanino de K-Pop. Nuntempe mi ankoraŭ havas kontakton kun la korea kulturo, sed mi kutime nur aŭskultas na TWICE (mia plej preferata grupo kaj artisto), MAMAMOO (mia dua plej preferata grupo kaj artisto), Red Velvet, NewJeans kaj Secret Number.
