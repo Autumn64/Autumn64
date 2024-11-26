@@ -38,8 +38,6 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 - Soy [música independiente](https://music.autumn64.xyz/).
 - Soy nerd de la lingüística.
 - Soy fan de las culturas orientales, y me gusta estudiar su historia y lenguas, especialmente aquellas de China y Corea.
-- Sigo la filosofía del [nihilismo optimista](https://redirect.invidious.io/watch?v=Ylcg_lOU6IQ).
-- Soy atea.
 - Mi película favorita es [Interstellar](https://es.wikipedia.org/wiki/Interstellar), y mis sagas favoritas son [Star Wars](https://es.wikipedia.org/wiki/Star_wars), [Frozen](https://es.wikipedia.org/wiki/Frozen_(franquicia)) y [Halo](https://es.wikipedia.org/wiki/Halo_(franquicia)).
 - Mi canción favorita es [A thousand years](https://redirect.invidious.io/watch?v=rtOvBOTyX00).
 - Hace algunos años era una ávida fan del K-Pop. Hoy en día sigo en contacto con mucha de la cultura coreana, pero usualmente sólo escucho a TWICE (mi grupo y artista favorito de todos los tiempos), MAMAMOO (mi segundo grupo y artista favorito de todos los tiempos), Red Velvet, NewJeans y Secret Number.
@@ -58,6 +56,7 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 - Fui parte de la [comunidad latinoamericana de Cartógrafo](https://www.halo2.online/forums/) entre 2020 y 2024.
 - ¡Me uní a la [FSF](https://www.fsf.org/) en diciembre de 2023!
 - Soy miembro permanente del [Quincenal del Fediverso](https://fediverse.tv/c/clubdesoftwarelibre/), y también participo del [Club de Software Libre](https://softlibre.com.ar/).
+- Tengo una [Pronouns Page](https://pronouns.page/@autumn64).
 
 <br>
 

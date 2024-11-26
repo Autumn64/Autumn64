@@ -38,8 +38,6 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I am an [indie musician](https://music.autumn64.xyz/).
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
-- I follow the philosophy of [optimistic nihilism](https://redirect.invidious.io/watch?v=MBRqu0YOH14).
-- I'm an atheist.
 - My favourite movie is [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)), and my favourite franchises are [Star Wars](https://en.wikipedia.org/wiki/Star_Wars), [Frozen](https://en.wikipedia.org/wiki/Frozen_(franchise)) and [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)).
 - My favourite song is [A thousand years](https://redirect.invidious.io/watch?v=rtOvBOTyX00).
 - A few years ago I used to be an avid K-Pop fan. Nowadays I'm still in contact with a lot of the korean culture, but I usually only listen to TWICE (my favouritest gg and artist ever), MAMAMOO (my 2nd favouritest gg and artist ever), Red Velvet, NewJeans, and Secret Number.
@@ -58,6 +56,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I was a part of the [Latin American Cartographer Community](https://www.halo2.online/forums/) between 2020 and 2024.
 - I joined the [FSF](https://www.fsf.org/) on December 2023!
 - I'm a permanent member of the spanish-speaking livestream about Free Software "[Quincenal del Fediverso](https://fediverse.tv/c/clubdesoftwarelibre/)", and I'm also a member of the [Free Software Club](https://softlibre.com.ar/).
+- I have a [Pronouns Page](https://pronouns.page/@autumn64).
 
 <br>
 
