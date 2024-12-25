@@ -35,6 +35,7 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 - Mi naskiĝis je la 11a de Junio.
 - Mi uzas inajn pronomojn, kaj mi ofte "inigas" substantivojn kaj adjektivojn kiam parolante pri mi mem.
 - Mi parolas la Hispanan, la Anglan, la Portugalan, la Francan (tre malbone, tamen) kaj Esperanto, kaj mi neoficiale lernas la Korean. Mi ankaŭ paŝ-paŝe lernas la Norvegan.
+- Mi fariĝis kristanino je Novembro 2024.
 - Mi estas [sendependa muzikistino](https://music.autumn64.xyz).
 - Mi estas lingvistika nerdino.
 - Mi amas la orientajn kulturojn, kaj mi ŝatas studi iliajn historion kaj lingvojn, speciale tiujn de Ĉinio kaj Koreio.

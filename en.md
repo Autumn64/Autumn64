@@ -35,6 +35,7 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - My birthday is on June 11th.
 - My pronouns are She/Her.
 - I speak Spanish, English, Portuguese, French (quite badly though) and Esperanto, and I'm (unofficially) learning Korean. I'm also slowly learning Norwegian.
+- I became a Christian on November 2024.
 - I am an [indie musician](https://music.autumn64.xyz/).
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.

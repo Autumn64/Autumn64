@@ -35,6 +35,7 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 - Mi cumpleaños es el 11 de junio.
 - Uso pronombres femeninos.
 - Hablo Español, Inglés, Portugués, Francés (aunque bastante mal) y Esperanto, y de forma no oficial aprendo Coreano. Poco a poco también he estado estudiando Noruego.
+- Me volví cristiana en noviembre de 2024.
 - Soy [música independiente](https://music.autumn64.xyz/).
 - Soy nerd de la lingüística.
 - Soy fan de las culturas orientales, y me gusta estudiar su historia y lenguas, especialmente aquellas de China y Corea.
