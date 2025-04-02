@@ -39,11 +39,13 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 - I am an [indie musician](https://music.autumn64.xyz/).
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
+- I also love Near Eastern cultures, particularly arab and jewish/israeli culture.
 - My favourite movie is [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)), and my favourite franchises are [Star Wars](https://en.wikipedia.org/wiki/Star_Wars), [Frozen](https://en.wikipedia.org/wiki/Frozen_(franchise)) and [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)).
 - My favourite song is [A thousand years](https://redirect.invidious.io/watch?v=rtOvBOTyX00).
 - A few years ago I used to be an avid K-Pop fan. Nowadays I'm still in contact with a lot of the korean culture, but I usually only listen to TWICE (my favouritest gg and artist ever), MAMAMOO (my 2nd favouritest gg and artist ever), Red Velvet, NewJeans, and Secret Number.
 - Related to the the point above, I also have an [online radio station](https://yazhouradio.autumn64.xyz) with K-Pop, J-Rock, Mandopop, Thaipop, etcetera, that streams 24/7 without ads and without interruptions.
 - My favourite K-Drama is probably [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), and my favourite K-Film is quite surely [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
+- On February 2025 I started a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) project called [Shutimiyah](https://www.shutimiyah.net) (in Spanish).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) FTW!
 - [We don't need open-source software, we need free software](https://ploum.net/2023-06-19-more-rms.html)!
 - I have an Xbox One. I also play often on [Steam](https://steamcommunity.com/profiles/76561199486117495/), but most of the time I play on my jailbroken DSi and 2DS.

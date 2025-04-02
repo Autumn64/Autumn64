@@ -26,7 +26,7 @@ Si así lo deseas, puedes verificar que <a href="https://www.autumn64.xyz/key.ht
 
 ¡Hola! Soy Mónica Gómez, también conocida como Autumn64. Soy una mexicana estudiante de Ingeniería en Sistemas Computacionales, tengo 20 años, y también soy una mujer trans Esperantista. Comencé a desarrollar software en C# en 2014, pero mis primeros contactos con la programación datan de 2011 con Commodore BASIC. También comencé a utilizar GNU/Linux en 2014 con Debian 6, y desde entonces he presenciado la evolución de las distribuciones GNU/Linux y su comunidad. Hoy en día uso [Arch Linux btw](https://archlinux.org/) y desarrollo software libre y de código abierto en C, Python y JavaScript, aunque también conozco Java, C++, Rust y C#.
 
-En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) con la canción "Ĝia nomo estas Mia Vivo", y soy una activa contribuyente de la Esperantujo mediante mi [canal de PeerTube](https://tube.tchncs.de/a/autumn64/video-channels), y traduciendo todo mi software al Esperanto. También soy [música independiente](https://music.autumn64.xyz/) y frecuentemente subo videos en [Español](https://video.hardlimit.com/c/autumn64/videos) y [Esperanto](https://tube.tchncs.de/c/autumn64.eo/videos). Además, tengo [un blog en Español](https://blog.autumn64.xyz/) y [en Esperanto](https://blogo.autumn64.xyz/).
+En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) con la canción "Ĝia nomo estas Mia Vivo", y soy una activa contribuyente de la Esperantujo mediante mi [canal de PeerTube](https://tube.tchncs.de/a/autumn64/video-channels), y traduciendo todo mi software al Esperanto. También soy [música independiente](https://music.autumn64.xyz/) y frecuentemente subo videos en [Español](https://video.hardlimit.com/c/autumn64/videos) y [Esperanto](https://tube.tchncs.de/c/autumn64.eo/videos). Además, tengo [un blog en Español](https://blog.autumn64.xyz/).
 
 <br>
 
@@ -39,11 +39,13 @@ En octubre de 2023 gané el [concurso de MiaVivo.net](https://www.miavivo.net/?s
 - Soy [música independiente](https://music.autumn64.xyz/).
 - Soy nerd de la lingüística.
 - Soy fan de las culturas orientales, y me gusta estudiar su historia y lenguas, especialmente aquellas de China y Corea.
+- También me encantan las culturas de Oriente Próximo, particularmente la árabe y la judía/israelí.
 - Mi película favorita es [Interstellar](https://es.wikipedia.org/wiki/Interstellar), y mis sagas favoritas son [Star Wars](https://es.wikipedia.org/wiki/Star_wars), [Frozen](https://es.wikipedia.org/wiki/Frozen_(franquicia)) y [Halo](https://es.wikipedia.org/wiki/Halo_(franquicia)).
 - Mi canción favorita es [A thousand years](https://redirect.invidious.io/watch?v=rtOvBOTyX00).
 - Hace algunos años era una ávida fan del K-Pop. Hoy en día sigo en contacto con mucha de la cultura coreana, pero usualmente sólo escucho a TWICE (mi grupo y artista favorito de todos los tiempos), MAMAMOO (mi segundo grupo y artista favorito de todos los tiempos), Red Velvet, NewJeans y Secret Number.
 - Sobre el punto anterior, también tengo una [estación de radio online](https://yazhouradio.autumn64.xyz) con música K-Pop, J-Rock, Mandopop, Thaipop, etcétera, que transmite 24/7 sin comerciales y sin interrupciones.
 - Mi K-Drama favorito es probablemente [Aterrizaje de Emergencia en Tu Corazón](https://es.wikipedia.org/wiki/Aterrizaje_de_emergencia_en_tu_coraz%C3%B3n), y mi K-Film favorita es muy seguramente [Una Chica del Siglo XX](https://es.wikipedia.org/wiki/Una_chica_del_siglo_XX).
+- En febrero de 2025 comencé un proyecto de [lengua construida](https://es.wikipedia.org/wiki/Lengua_construida) llamado [Shutimía](https://www.shutimiyah.net).
 - ¡Viva la [ISO 8601](https://es.wikipedia.org/wiki/ISO_8601)!
 - ¡[No necesitamos software de código abierto, necesitamos software libre](https://victorhckinthefreeworld.com/2023/06/26/necesitamos-mas-de-richard-stallman-no-menos/)!
 - Tengo un Xbox One. También juego a menudo en [Steam](https://steamcommunity.com/profiles/76561199486117495/), pero la mayor parte del tiempo juego en mi DSi y 2DS pirateadas (y también tengo una Wii chipeada :3).

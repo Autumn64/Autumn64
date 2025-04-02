@@ -39,11 +39,13 @@ Je Oktobro 2023 mi gajnis la [konkurson de MiaVivo.net](https://www.miavivo.net/
 - Mi estas [sendependa muzikistino](https://music.autumn64.xyz).
 - Mi estas lingvistika nerdino.
 - Mi amas la orientajn kulturojn, kaj mi ŝatas studi iliajn historion kaj lingvojn, speciale tiujn de Ĉinio kaj Koreio.
+- Mi ankaŭ amas la kulturojn de Okcidenta Azio, pli specife la araban kaj la judan/israelan.
 - Mia plej ŝatata filmo estas [Interstellar](https://eo.wikipedia.org/wiki/Interstellar), kaj miaj plej ŝatataj sagaoj estas [Star Wars](https://eo.wikipedia.org/wiki/Star_Wars), [Frozen](https://en.wikipedia.org/wiki/Frozen_(franchise)) kaj [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)).
 - Mia plej ŝatata kanto estas [A thousand years](https://redirect.invidious.io/watch?v=rtOvBOTyX00).
 - Antaŭ kelkaj jaroj mi estis avida fanino de K-Pop. Nuntempe mi ankoraŭ havas kontakton kun la korea kulturo, sed mi kutime nur aŭskultas na TWICE (mia plej preferata grupo kaj artisto), MAMAMOO (mia dua plej preferata grupo kaj artisto), Red Velvet, NewJeans kaj Secret Number.
 - Pri la antaŭa punkto, mi ankaŭ havas [retan radiostacion](https://yazhouradio.autumn64.xyz) kun muziko K-Pop, J-Rock, Mandopop, Thaipop, kaj tiel plu, kiu tujelsendas je 24/7, sen reklamoj kaj sen interrompoj.
 - Mia plej ŝatata K-Drama estas eble [Crash Landing on You](https://en.wikipedia.org/wiki/Crash_Landing_on_You), kaj mia plej ŝatata K-Film estas tre certe [20th Century Girl](https://en.wikipedia.org/wiki/20th_Century_Girl).
+- Je Februaro 2025 mi komencis projekton de [konstruita lingvo](https://eo.wikipedia.org/wiki/Konstruita_lingvo) nomata [Ŝutimio](https://www.shutimiyah.net) (hispane).
 - [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) bonegas!
 - [Ne nepras malfermitkoda softvaro, nepras libera softvaro](https://ploum.net/2023-06-19-more-rms.html)!
 - Mi havas na Xbox One. Mi ankaŭ ofte ludas ĉe [Steam](https://steamcommunity.com/profiles/76561199486117495/), sed dum la plejparto de la tempo mi ludas ĉe miaj liberigitaj DSi kaj 2DS.
