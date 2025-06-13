@@ -24,7 +24,7 @@ If you wish, you can verify <a href="https://www.autumn64.xyz/key.html">it's act
 
 #### WARNING: If you're reading this from GitHub, that means you're in a mirror! The original file is on [Codeberg](https://codeberg.org/Autumn64/AboutMe/src/branch/main/README.md). If you want to contribute to any of my projects, please do it there, as all of my GitHub repositories are just mirrors to Codeberg.
 
-Hi! I'm Mónica Gómez, also known as Autumn64. I am a Computer Systems Engineering student from México, I'm 20 years old, and I'm a proud trans woman and Esperantist. I started developing software in C# back in 2014, but my first contacts with programming date back from 2011 with Commodore BASIC. I also started using GNU/Linux in 2014 with Debian 6, and since then I've witnessed the evolution of the GNU/Linux distributions and community. Nowadays I use [Arch Linux btw](https://archlinux.org/) and I develop free, libre and open-source software in C, Python and JavaScript, although I can also code in Java, C++, Rust and C#.
+Hi! I'm Mónica Gómez, also known as Autumn64. I am a Computer Systems Engineering student from México, I'm 21 years old, and I'm a proud trans woman and Esperantist. I started developing software in C# back in 2014, but my first contacts with programming date back from 2011 with Commodore BASIC. I also started using GNU/Linux in 2014 with Debian 6, and since then I've witnessed the evolution of the GNU/Linux distributions and community. Nowadays I use [Arch Linux btw](https://archlinux.org/) and I develop free, libre and open-source software in C, Python and JavaScript, although I can also code in Java, C++, Rust and C#.
 
 On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?status/1-1-1698395536) with the song "Ĝia nomo estas Mia Vivo", and I am an active contributor to Esperantujo through my [PeerTube channel](https://tube.tchncs.de/a/autumn64/video-channels), and by translating all my software to Esperanto. I am also an [indie musician](https://music.autumn64.xyz/), and I frequently upload programming tutorials [in Spanish](https://video.hardlimit.com/c/autumn64/videos) and [Esperanto](https://tube.tchncs.de/c/autumn64.eo/videos). Additionally, I have [a blog in Spanish](https://blog.autumn64.xyz/) and another [in Esperanto](https://blogo.autumn64.xyz/).
 
@@ -34,8 +34,8 @@ On October 2023 I won the [contest at MiaVivo.net](https://www.miavivo.net/?stat
 
 - My birthday is on June 11th.
 - My pronouns are She/Her.
-- I speak Spanish, English, Portuguese, French (quite badly though) and Esperanto, and I'm (unofficially) learning Korean. I'm also slowly learning Norwegian.
-- I became a Christian on November 2024.
+- I speak Spanish, English, Portuguese, French (quite badly though) and Esperanto, and I'm (unofficially) learning Korean.
+- Despite having shown interest in Christianity in 2024, I ended up deciding to stay as a neopagan. Specifically I follow eclectic witchcraft.
 - I am an [indie musician](https://music.autumn64.xyz/).
 - I am a linguistics nerd.
 - I'm a big fan of eastern cultures, and I like to study their history and languages, especially those of China and Korea.
