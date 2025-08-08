@@ -36,7 +36,7 @@
 
 ### 👩🏻‍💻 About Me :
 
-I'm a Computer Systems Engineering student, and a software developer from México 🇲🇽.
+Hi! I'm Mónica Gómez, a Computer Systems Engineering student, and a software developer from México 🇲🇽.
 
 - 🔭 I work as a freelance website designer and software developer.
 - 📖 I focus on QA, web scraping, sysadmin and design of any kind of websites.
