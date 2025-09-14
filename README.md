@@ -76,10 +76,10 @@ Hi! I'm Mónica Gómez, a Computer Systems Engineering student, and a software d
 ### 💸 Support me!
 
 <div id="donations" align="center">
-    <a href="https://liberapay.com/autumn64/" target="_blank">
-        <img src="https://www.autumn64.xyz/wp-content/uploads/2025/07/liberapay.svg" alt="LiberaPay" width="100"/>
+    <a href="https://donate.stripe.com/bJefZgcd88cp8C0bmlbZe00" target="_blank">
+        Donate with Stripe
     </a><br>
-    <a href="https://ko-fi.com/autumn64" target="_blank">
-        <img src="https://www.autumn64.xyz/wp-content/uploads/2025/07/kofi.png" alt="Ko-Fi" width="100"/>
+    <a href="https://liberapay.com/autumn64/" target="_blank">
+        <img src="https://autumn64.codeberg.page/res/liberapay.svg" alt="LiberaPay" width="100"/>
     </a>
 </div>
